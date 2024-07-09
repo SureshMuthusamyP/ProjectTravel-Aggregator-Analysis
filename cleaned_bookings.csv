@@ -1,0 +1,340 @@
+customer_id,booking_id,from_city,from_country,to_city,to_country,booking_time,device_type_used,INR_Amount,service_name,no_of_passengers,days_to_departure,distance_km
+259,82,Gurgaon,India,Ahmedabad,India,2020-02-05 16:12:08+00:00,Desktop,2565.28,MMT,1.0,10.0,747.8
+303,156,Delhi,India,Brussels,Belgium,2018-11-21 08:21:47+00:00,Android,23120.0,YATRA,1.0,1.0,6701.5
+203,99,Devanhalli,India,Frankfurt am Main,Germany,2019-12-16 22:54:58+00:00,Android,25717.6,YATRA,1.0,32.0,7712.0
+211,319,Gurgaon,India,Frankfurt am Main,Germany,2021-10-29 12:25:38+00:00,Desktop,135969.6,GOIBIBO,2.0,69.0,6112.5
+287,222,Gurgaon,India,Roissy-en-France,France,2020-08-11 16:09:10+00:00,Android,31791.2,GOIBIBO,1.0,3.0,6570.4
+99,241,Gurgaon,India,Roissy-en-France,France,2021-04-13 16:12:34+00:00,IOS,21843.2,GOIBIBO,1.0,11.0,6570.4
+28,129,Kolkata,India,Gurgaon,India,2022-02-16 15:50:27+00:00,Desktop,13442.4,GOIBIBO,1.0,13.0,1310.7
+217,18,Bhubaneswar,India,Durlaga,India,2021-09-10 19:09:12+00:00,Desktop,4352.0,GOIBIBO,2.0,47.0,260.5
+161,136,Gurgaon,India,Amsterdam,Netherlands,2022-03-14 15:05:23+00:00,Desktop,64316.8,MMT,1.0,86.0,6354.9
+150,289,Delhi,India,Hamburg,Germany,2018-09-25 18:29:22+00:00,Desktop,47974.93,YATRA,1.0,17.0,6275.7
+111,141,Gurgaon,India,Berlin,Germany,2019-10-10 19:53:03+00:00,Desktop,28788.0,YATRA,1.0,8.0,6008.3
+178,133,Mumbai,India,Paris,France,2021-02-27 19:26:11+00:00,MobileWeb,92544.0,GOIBIBO,3.0,7.0,7010.2
+197,154,Delhi,India,Fiumicino,Italy,2018-12-01 21:38:40+00:00,Desktop,22160.0,YATRA,1.0,6.0,6082.6
+282,212,Indore,India,Mumbai,India,2021-10-16 07:56:59+00:00,IOS,4725.6,GOIBIBO,1.0,0.0,506.2
+43,101,Mumbai,India,Zaventem,Belgium,2020-01-18 06:46:09+00:00,IOS,31588.0,GOIBIBO,1.0,19.0,7166.5
+271,105,Mumbai,India,London,United Kingdom,2019-09-02 10:36:27+00:00,IOS,22599.88,YATRA,1.0,16.0,7544.3
+179,218,Gurgaon,India,Port Blair,India,2020-01-12 17:34:59+00:00,Desktop,17804.8,MMT,2.0,35.0,2486.8
+7,132,Devanhalli,India,Gurgaon,India,2021-04-14 18:20:41+00:00,Desktop,4330.28,MMT,1.0,8.0,1694.7
+210,91,Gurgaon,India,Prague,Czechia,2019-12-26 00:55:55+00:00,Desktop,29786.14,GOIBIBO,1.0,40.0,5901.3
+269,285,Hyderabad,India,San Francisco,USA,2020-10-15 13:36:14+00:00,Desktop,86960.48,YATRA,1.0,22.0,13505.2
+114,46,Delhi,India,Rome,Italy,2018-12-20 11:45:59+00:00,Desktop,23200.0,YATRA,1.0,1.0,6059.1
+78,206,Gurgaon,India,Lucknow,India,2021-10-21 08:16:05+00:00,Desktop,4612.8,GOIBIBO,1.0,3.0,422.0
+229,280,Gurgaon,India,Milan,Italy,2020-02-11 05:46:16+00:00,MobileWeb,28513.6,YATRA,1.0,0.0,6316.8
+227,97,Mumbai,India,Gurgaon,India,2020-11-08 18:47:31+00:00,Android,32929.6,YATRA,3.0,5.0,1125.5
+179,157,Mumbai,India,Jaipur,India,2020-01-23 13:58:39+00:00,Desktop,6953.6,GOIBIBO,1.0,15.0,921.8
+188,184,Rāja Sānsi,India,Glasgow,United Kingdom,2020-01-31 19:48:03+00:00,Android,44276.57,GOIBIBO,1.0,10.0,6890.3
+25,81,Rāja Sānsi,India,London,United Kingdom,2018-11-07 19:38:04+00:00,Desktop,69568.01,YATRA,2.0,9.0,6606.1
+68,301,Madhyamgram,India,London,United Kingdom,2020-01-05 23:02:52+00:00,Desktop,61125.76,YATRA,2.0,16.0,8483.8
+42,188,Chennai,India,Munich,Germany,2021-11-15 11:18:10+00:00,MobileWeb,40652.8,GOIBIBO,1.0,59.0,7352.9
+247,119,Gurgaon,India,Fiumicino,Italy,2021-11-08 15:50:49+00:00,Android,21788.0,GOIBIBO,1.0,25.0,5932.6
+22,134,New Delhi,India,Hamburg,Germany,2018-10-04 06:57:27+00:00,MobileWeb,19859.2,YATRA,1.0,12.0,6277.0
+40,121,Bālāpur,India,Dubai,United Arab Emirates,2018-09-11 14:08:05+00:00,Desktop,39829.6,YATRA,1.0,1.0,2558.6
+89,226,Varanasi,India,Pune,India,2021-06-22 18:19:48+00:00,Desktop,10962.21,GOIBIBO,1.0,12.0,1208.9
+92,249,Gurgaon,India,Rozenburg,Netherlands,2019-06-14 19:12:06+00:00,Desktop,36480.0,YATRA,1.0,16.0,6672.6
+268,58,Gurgaon,India,Jodhpur,India,2021-12-12 22:58:25+00:00,IOS,5956.77,GOIBIBO,2.0,24.0,475.0
+261,181,Ahmedabad,India,Gurgaon,India,2021-11-13 08:08:46+00:00,Desktop,5791.76,GOIBIBO,1.0,6.0,760.6
+183,197,Jaipur,India,Gurgaon,India,2020-02-10 15:16:06+00:00,IOS,10287.4,GOIBIBO,2.0,2.0,210.3
+147,23,Rāja Sānsi,India,Fiumicino,Italy,2018-09-29 19:37:19+00:00,Android,23884.8,YATRA,1.0,4.0,5686.1
+174,76,Ahmedabad,India,London,United Kingdom,2020-02-06 13:54:26+00:00,Android,31940.8,GOIBIBO,1.0,2.0,7173.4
+248,8,Gurgaon,India,Roissy-en-France,France,2019-06-30 12:26:58+00:00,Tablet,23280.0,YATRA,1.0,171.0,6854.8
+39,74,Thiruvananthapuram,India,Riga,Latvia,2018-09-29 13:53:17+00:00,Android,47954.4,YATRA,1.0,27.0,7311.2
+193,192,Rāja Sānsi,India,Fiumicino,Italy,2018-09-24 15:07:04+00:00,Android,30346.4,YATRA,1.0,3.0,5686.1
+137,88,Gurgaon,India,Birmingham,United Kingdom,2019-12-22 08:49:25+00:00,IOS,46142.4,YATRA,1.0,19.0,7190.9
+222,159,Gurgaon,India,Paris,France,2019-10-04 14:02:38+00:00,Desktop,18852.8,GOIBIBO,1.0,5.0,6869.5
+274,275,Mumbai,India,Frankfurt am Main,Germany,2020-07-01 21:59:27+00:00,IOS,41838.4,GOIBIBO,1.0,16.0,6564.3
+66,78,Gurgaon,India,Frankfurt am Main,Germany,2021-08-29 18:39:56+00:00,IOS,26336.0,GOIBIBO,1.0,49.0,6112.5
+228,176,Devanhalli,India,Frankfurt am Main,Germany,2022-01-14 05:54:40+00:00,Desktop,22368.8,GOIBIBO,1.0,33.0,7401.2
+109,114,Jaipur,India,Mumbai,India,2019-12-10 09:57:11+00:00,Desktop,10894.4,GOIBIBO,1.0,13.0,921.8
+49,56,Gurgaon,India,Roissy-en-France,France,2021-10-11 05:01:16+00:00,IOS,22013.6,GOIBIBO,1.0,1.0,6564.2
+128,66,Gurgaon,India,Milan,Italy,2020-11-12 15:10:03+00:00,Android,33551.2,GOIBIBO,1.0,14.0,6125.7
+272,230,Gurgaon,India,Beijing,China,2019-12-04 20:55:24+00:00,Desktop,26103.78,GOIBIBO,1.0,47.0,3838.7
+141,106,Delhi,India,Edinburgh,United Kingdom,2020-01-21 05:51:09+00:00,MobileWeb,32372.8,GOIBIBO,1.0,7.0,7277.4
+23,310,New Delhi,India,Villafranca di Verona,Italy,2018-10-06 14:32:45+00:00,MobileWeb,16996.8,YATRA,2.0,3.0,6181.7
+61,109,Gurgaon,India,Amsterdam,Netherlands,2018-09-04 16:45:23+00:00,Desktop,18096.0,YATRA,1.0,108.0,6660.7
+18,165,Mumbai,India,Nagpur,India,2020-02-24 12:03:11+00:00,Desktop,4148.0,MMT,1.0,5.0,689.1
+245,215,Pune,India,Nagpur,India,2020-01-28 16:48:38+00:00,Android,7241.46,MMT,1.0,7.0,621.7
+119,12,Mumbai,India,Gurgaon,India,2021-01-03 18:39:55+00:00,Desktop,4182.94,MMT,1.0,4.0,1125.5
+285,42,Gurgaon,India,Lucknow,India,2020-01-06 20:51:06+00:00,Desktop,4072.4,MMT,1.0,7.0,424.0
+132,5,Delhi,India,Dubai,United Arab Emirates,2020-11-21 17:08:00+00:00,Desktop,9266.03,YATRA,1.0,4.0,2202.3
+138,186,Gurgaon,India,Frankfurt am Main,Germany,2021-03-18 17:18:40+00:00,IOS,34980.8,GOIBIBO,1.0,8.0,6114.5
+26,110,Thiruvananthapuram,India,Frankfurt am Main,Germany,2022-01-14 14:46:21+00:00,Desktop,46818.4,GOIBIBO,1.0,9.0,7740.7
+131,71,Devanhalli,India,Mumbai,India,2021-09-21 12:11:16+00:00,Android,4534.4,GOIBIBO,1.0,17.0,833.7
+207,214,Gurgaon,India,Floris,USA,2018-10-14 14:56:27+00:00,Desktop,35288.8,YATRA,1.0,3.0,14334.7
+280,100,Gurgaon,India,Paris,France,2021-07-01 09:22:13+00:00,IOS,27328.8,GOIBIBO,1.0,31.0,6583.3
+184,293,New Delhi,India,Milan,Italy,2018-10-06 02:06:14+00:00,Android,21000.8,YATRA,1.0,1.0,6321.1
+246,25,Delhi,India,Paris,France,2022-05-25 11:55:16+00:00,IOS,33216.0,GOIBIBO,1.0,9.0,6585.3
+72,256,Gurgaon,India,Vizzola Ticino,Italy,2019-12-13 18:59:13+00:00,Android,27562.4,GOIBIBO,1.0,8.0,6358.7
+251,204,Delhi,India,Vizzola Ticino,Italy,2018-10-22 13:35:48+00:00,Desktop,21839.2,YATRA,1.0,5.0,6362.0
+82,72,Chennai,India,Roissy-en-France,France,2021-05-18 13:17:38+00:00,Android,21573.6,GOIBIBO,1.0,12.0,8023.8
+208,33,Mumbai,India,Chicalim,India,2020-02-14 15:01:05+00:00,IOS,4395.01,GOIBIBO,1.0,1.0,420.7
+56,236,Gurgaon,India,Mumbai,India,2019-12-20 15:56:47+00:00,Android,6901.6,GOIBIBO,1.0,1.0,1125.8
+117,163,Gurgaon,India,Barcelona,Spain,2022-03-30 20:13:00+00:00,MobileWeb,62355.2,MMT,1.0,311.0,6765.0
+292,196,Gurgaon,India,Kochi,India,2020-02-07 10:27:20+00:00,Desktop,6829.9,MMT,1.0,7.0,2060.9
+215,146,Mumbai,India,Gurgaon,India,2021-01-05 18:33:31+00:00,Desktop,3865.09,MMT,1.0,6.0,1125.5
+284,329,Pune,India,Gurgaon,India,2021-01-14 19:29:52+00:00,Desktop,4567.55,MMT,1.0,6.0,1151.5
+146,86,Gurgaon,India,Fiumicino,Italy,2020-02-11 14:42:36+00:00,Android,29333.6,YATRA,1.0,13.0,6076.8
+59,43,Kolkata,India,Kathmandu,Nepal,2020-02-08 18:16:26+00:00,MobileWeb,9488.0,YATRA,1.0,24.0,648.3
+129,246,Gurgaon,India,Vizzola Ticino,Italy,2019-12-13 11:56:21+00:00,IOS,53844.8,GOIBIBO,2.0,6.0,6358.7
+243,225,Chicalim,India,Roissy-en-France,France,2020-03-20 09:58:05+00:00,Desktop,78060.0,GOIBIBO,1.0,1.0,7680.4
+116,137,Ahmedabad,India,Frankfurt am Main,Germany,2019-10-07 15:49:42+00:00,Desktop,24212.8,GOIBIBO,1.0,8.0,6454.6
+97,257,Dharamsala,India,Gurgaon,India,2021-10-10 13:01:00+00:00,IOS,6863.2,GOIBIBO,1.0,3.0,416.6
+176,2,Barelā,India,Gurgaon,India,2022-01-12 15:36:09+00:00,IOS,13067.2,GOIBIBO,3.0,3.0,666.7
+234,294,Delhi,India,New York,USA,2018-11-17 15:58:52+00:00,IOS,15520.0,MMT,1.0,22.0,13893.2
+279,305,Mumbai,India,Istanbul,Turkey,2020-02-13 09:29:18+00:00,IOS,22466.51,GOIBIBO,1.0,18.0,4882.1
+101,63,Gurgaon,India,Varanasi,India,2021-12-31 09:39:33+00:00,IOS,6050.63,GOIBIBO,1.0,12.0,687.6
+155,261,Jaipur,India,Agra,India,2020-01-24 08:28:21+00:00,IOS,2008.0,GOIBIBO,1.0,11.0,222.7
+37,169,Gurgaon,India,Agartala,India,2022-01-05 21:47:05+00:00,Android,7996.45,GOIBIBO,1.0,3.0,1501.4
+73,10,Gurgaon,India,Agartala,India,2022-03-09 22:26:56+00:00,IOS,8071.2,GOIBIBO,1.0,3.0,1501.4
+201,288,Thrissur,India,Thiruvananthapuram,India,2019-12-20 13:36:57+00:00,IOS,12987.82,GOIBIBO,3.0,0.0,237.8
+44,69,Gurgaon,India,Rāja Sānsi,India,2021-09-28 18:55:25+00:00,Android,4700.0,GOIBIBO,1.0,3.0,414.6
+202,272,Gurgaon,India,Ahmedabad,India,2020-02-07 10:53:55+00:00,Desktop,7422.19,GOIBIBO,1.0,9.0,747.8
+95,245,Mumbai,India,Gurgaon,India,2020-01-07 19:26:11+00:00,Desktop,7053.6,GOIBIBO,1.0,3.0,1125.8
+177,259,Chennai,India,Frankfurt am Main,Germany,2021-11-15 19:24:40+00:00,IOS,27212.8,GOIBIBO,1.0,13.0,7586.2
+165,167,Gurgaon,India,Lisbon,Portugal,2021-10-02 23:28:29+00:00,Android,71434.4,GOIBIBO,2.0,97.0,7770.2
+262,95,Ahmedabad,India,Chicalim,India,2021-01-07 05:25:37+00:00,Desktop,3919.3,MMT,1.0,49.0,858.3
+122,338,New Delhi,India,Geneva,Switzerland,2018-12-21 20:47:44+00:00,IOS,60556.8,YATRA,2.0,44.0,6574.0
+55,94,Mumbai,India,London,United Kingdom,2018-10-08 16:58:22+00:00,Tablet,19642.02,YATRA,1.0,2.0,7544.3
+142,325,Gurgaon,India,Frankfurt am Main,Germany,2021-08-04 08:49:05+00:00,Android,39012.0,GOIBIBO,1.0,30.0,6112.5
+298,290,Devanhalli,India,Frankfurt am Main,Germany,2019-09-13 13:16:24+00:00,Android,27282.4,GOIBIBO,1.0,14.0,7712.0
+121,21,Delhi,India,Fiumicino,Italy,2018-10-02 09:43:04+00:00,Desktop,20740.0,YATRA,1.0,3.0,6082.6
+282,189,Mumbai,India,Chicalim,India,2021-09-04 02:13:37+00:00,IOS,4616.0,GOIBIBO,1.0,1.0,425.1
+97,143,Delhi,India,Yol,India,2021-09-13 11:40:31+00:00,MobileWeb,4856.8,GOIBIBO,1.0,10.0,401.3
+140,284,Gurgaon,India,Paris,France,2020-03-19 01:35:22+00:00,Desktop,49136.8,GOIBIBO,1.0,1.0,6869.5
+112,244,Chennai,India,Nice,France,2019-12-30 05:50:45+00:00,Android,41744.0,GOIBIBO,1.0,9.0,7911.7
+263,50,Chennai,India,Paris,France,2021-09-10 03:46:34+00:00,MobileWeb,64051.2,GOIBIBO,4.0,24.0,8036.0
+233,233,Gurgaon,India,Paris,France,2019-07-25 09:57:09+00:00,IOS,25680.0,GOIBIBO,1.0,7.0,6869.5
+219,335,Gurgaon,India,Frankfurt am Main,Germany,2021-10-10 18:38:50+00:00,Desktop,102966.4,GOIBIBO,2.0,114.0,6112.5
+11,331,Bālāpur,India,Frankfurt am Main,Germany,2021-10-07 17:20:42+00:00,Desktop,44094.4,GOIBIBO,1.0,29.0,7109.2
+283,220,Delhi,India,Milan,Italy,2018-10-14 14:51:03+00:00,Desktop,22280.8,YATRA,1.0,13.0,6320.2
+297,29,Gurgaon,India,Tiruchi,India,2020-03-10 11:20:58+00:00,Android,5019.2,YATRA,1.0,2.0,1970.8
+9,303,Gurgaon,India,Guwahati,India,2020-03-02 11:44:43+00:00,IOS,7233.6,YATRA,1.0,11.0,1476.4
+144,296,Surat,India,Devanhalli,India,2020-02-09 16:50:05+00:00,Desktop,8208.8,GOIBIBO,1.0,1.0,1022.5
+118,38,Rāja Sānsi,India,Fiumicino,Italy,2018-09-25 16:24:12+00:00,Desktop,26999.2,YATRA,1.0,3.0,5686.1
+235,26,Gurgaon,India,Bhubaneswar,India,2020-03-19 09:15:19+00:00,Android,6467.2,GOIBIBO,1.0,2.0,1274.7
+254,295,Gurgaon,India,Paris,France,2020-01-01 18:46:38+00:00,Android,25426.4,GOIBIBO,1.0,6.0,6869.5
+58,283,Gurgaon,India,Mohali,India,2021-06-01 07:52:49+00:00,Desktop,3488.8,GOIBIBO,1.0,3.0,248.6
+160,313,Mumbai,India,Lucknow,India,2020-01-28 16:47:01+00:00,Desktop,9441.95,MMT,1.0,3.0,1193.1
+130,31,Gurgaon,India,Prague,Czechia,2019-07-08 21:10:44+00:00,Desktop,32636.8,YATRA,1.0,41.0,5901.3
+224,271,Gurgaon,India,Berlin,Germany,2019-08-31 07:30:27+00:00,Desktop,32960.0,YATRA,1.0,15.0,6008.3
+260,149,Gurgaon,India,Paris,France,2022-03-04 11:08:26+00:00,Android,23720.0,GOIBIBO,1.0,27.0,6583.3
+204,255,Gurgaon,India,Amritsar,India,2022-02-03 15:40:46+00:00,MobileWeb,2538.4,GOIBIBO,1.0,18.0,403.9
+294,217,Gurgaon,India,Frankfurt am Main,Germany,2021-09-02 07:56:26+00:00,Android,78603.85,GOIBIBO,1.0,6.0,6112.5
+15,168,Gannavaram,India,Bālāpur,India,2019-12-17 11:14:35+00:00,Android,2467.2,GOIBIBO,1.0,28.0,261.5
+30,62,Mumbai,India,Gurgaon,India,2020-02-22 13:24:21+00:00,Android,2116.8,GOIBIBO,1.0,49.0,1125.8
+124,327,Gurgaon,India,Dubai,United Arab Emirates,2022-06-04 16:38:50+00:00,IOS,30332.69,GOIBIBO,2.0,9.0,2188.9
+46,219,Kochi,India,Frankfurt am Main,Germany,2022-02-21 17:14:02+00:00,Desktop,26888.0,GOIBIBO,1.0,103.0,7576.1
+293,139,Mumbai,India,Gurgaon,India,2021-04-13 18:24:24+00:00,Desktop,4900.07,MMT,1.0,9.0,1125.5
+93,277,Bālāpur,India,Düsseldorf,Germany,2019-12-08 11:22:11+00:00,IOS,43935.2,YATRA,1.0,112.0,7591.8
+264,55,Chennai,India,Paris,France,2019-11-14 22:23:48+00:00,Desktop,24143.2,GOIBIBO,1.0,6.0,8427.4
+96,312,Mumbai,India,Madhyamgram,India,2020-01-16 22:36:23+00:00,IOS,17225.6,GOIBIBO,2.0,39.0,1666.2
+267,240,Gurgaon,India,Roissy-en-France,France,2019-09-07 22:30:03+00:00,IOS,25140.8,GOIBIBO,1.0,188.0,6854.8
+81,32,Gurgaon,India,Frankfurt am Main,Germany,2020-01-29 16:54:24+00:00,Android,27948.8,YATRA,1.0,64.0,6355.5
+186,250,Mumbai,India,Ikeja,Nigeria,2020-02-04 18:43:47+00:00,IOS,25296.8,GOIBIBO,1.0,8.0,7666.5
+221,164,Chennai,India,Frankfurt am Main,Germany,2021-08-22 18:12:36+00:00,Desktop,54750.4,GOIBIBO,1.0,6.0,7586.2
+171,201,Delhi,India,Rome,Italy,2018-11-16 18:50:06+00:00,MobileWeb,20800.0,YATRA,1.0,15.0,6059.1
+20,185,Gurgaon,India,Mérignac,France,2019-12-05 16:52:57+00:00,Desktop,63586.4,YATRA,1.0,94.0,7163.7
+154,147,Hyderābād,India,Dubai,United Arab Emirates,2018-09-11 14:03:16+00:00,Desktop,39829.6,YATRA,1.0,1.0,2555.1
+187,318,Delhi,India,Lucknow,India,2022-05-07 01:58:03+00:00,MobileWeb,5585.6,GOIBIBO,1.0,19.0,415.7
+100,300,Hyderabad,India,London,United Kingdom,2022-02-16 19:28:13+00:00,IOS,44749.6,GOIBIBO,1.0,26.0,7721.7
+249,268,Gurgaon,India,Bagdogra,India,2020-01-02 03:29:17+00:00,IOS,4360.0,GOIBIBO,1.0,36.0,1129.4
+265,124,Gurgaon,India,Roissy-en-France,France,2019-12-23 08:27:51+00:00,Android,24072.0,GOIBIBO,1.0,7.0,6854.8
+115,323,Devanhalli,India,Amsterdam,Netherlands,2020-01-24 10:41:41+00:00,Android,31137.08,GOIBIBO,1.0,6.0,8077.8
+6,4,Chicalim,India,Mumbai,India,2020-01-15 20:52:32+00:00,MobileWeb,9313.6,MMT,4.0,59.0,420.7
+159,287,Gurgaon,India,Reggio Calabria,Italy,2019-11-09 13:52:31+00:00,Android,31216.8,YATRA,1.0,23.0,5804.1
+104,224,Hyderabad,India,Madrid,Spain,2020-02-13 13:16:21+00:00,Android,26200.0,YATRA,1.0,14.0,8400.3
+246,263,Gurgaon,India,Roissy-en-France,France,2021-11-28 12:49:57+00:00,IOS,43783.2,GOIBIBO,1.0,4.0,6564.2
+65,20,Gurgaon,India,Rāja Sānsi,India,2020-01-31 23:33:13+00:00,Android,3974.4,GOIBIBO,1.0,3.0,421.0
+175,85,Devanhalli,India,Frankfurt am Main,Germany,2021-03-31 15:01:05+00:00,IOS,15365.6,GOIBIBO,1.0,25.0,7391.4
+34,35,Gurgaon,India,Frankfurt am Main,Germany,2020-09-24 06:59:37+00:00,IOS,26236.0,YATRA,1.0,16.0,6114.5
+232,317,Delhi,India,Naples,Italy,2018-10-20 16:50:07+00:00,Desktop,24308.0,YATRA,1.0,6.0,5911.6
+255,291,Gurgaon,India,Bagdogra,India,2020-10-20 13:03:14+00:00,Android,3804.8,MMT,1.0,1.0,1128.9
+230,322,Gurgaon,India,Hamburg,Germany,2020-01-27 18:42:32+00:00,IOS,63316.8,YATRA,2.0,39.0,6277.5
+278,227,Mumbai,India,Frankfurt am Main,Germany,2020-03-18 17:02:21+00:00,IOS,22200.8,GOIBIBO,1.0,5.0,6815.2
+77,107,Varanasi,India,Pune,India,2021-06-26 22:24:21+00:00,Desktop,10816.87,GOIBIBO,1.0,8.0,1208.9
+94,316,Devanhalli,India,Gurgaon,India,2020-02-25 07:32:40+00:00,IOS,7068.0,GOIBIBO,1.0,12.0,1694.7
+0,125,Patna,India,Gurgaon,India,2020-01-28 10:03:24+00:00,IOS,6780.83,GOIBIBO,1.0,1.0,862.3
+296,59,Rāja Sānsi,India,Fiumicino,Italy,2018-10-04 15:14:21+00:00,Desktop,48886.4,YATRA,2.0,17.0,5686.1
+38,183,Bangalore,India,Roissy-en-France,France,2019-11-12 22:45:37+00:00,Desktop,48828.8,YATRA,1.0,35.0,8201.9
+143,117,Thiruvananthapuram,India,Berlin,Germany,2019-11-20 16:54:39+00:00,Desktop,42593.6,GOIBIBO,1.0,17.0,7811.0
+60,39,Gurgaon,India,Venice,Italy,2019-12-17 11:22:47+00:00,IOS,23339.2,YATRA,1.0,36.0,6051.5
+258,152,Pune,India,Varanasi,India,2020-12-23 21:02:59+00:00,Desktop,12213.36,MMT,2.0,4.0,1208.9
+16,108,Delhi,India,Devanhalli,India,2020-01-30 12:08:07+00:00,MobileWeb,6384.3,MMT,1.0,9.0,1715.5
+237,140,Kochi,India,London,United Kingdom,2021-11-27 16:27:31+00:00,IOS,62807.81,GOIBIBO,1.0,20.0,8203.4
+137,190,Gurgaon,India,Rāja Sānsi,India,2020-01-26 13:38:44+00:00,IOS,12094.4,GOIBIBO,1.0,1.0,421.0
+195,104,Delhi,India,Calgary,Canada,2018-10-04 15:09:59+00:00,Desktop,51683.2,YATRA,1.0,1.0,16520.3
+74,64,Delhi,India,Bālāpur,India,2021-10-20 22:37:14+00:00,MobileWeb,3440.8,GOIBIBO,1.0,43.0,1275.5
+41,153,Jaipur,India,Gurgaon,India,2021-02-23 19:36:09+00:00,Desktop,3739.36,GOIBIBO,1.0,5.0,210.3
+164,229,Chennai,India,Fiumicino,Italy,2019-07-29 11:23:06+00:00,Android,29360.0,GOIBIBO,1.0,44.0,7434.9
+148,111,Rāja Sānsi,India,Fiumicino,Italy,2018-10-06 12:29:44+00:00,Desktop,25147.2,YATRA,1.0,1.0,5686.1
+75,67,Gurgaon,India,Chicalim,India,2022-05-12 13:08:26+00:00,IOS,18184.0,GOIBIBO,2.0,29.0,1503.1
+185,200,Gurgaon,India,Munich,Germany,2019-10-17 21:18:47+00:00,Android,21353.07,YATRA,1.0,5.0,6116.3
+48,36,Delhi,India,Amsterdam,Netherlands,2019-01-03 18:15:21+00:00,Desktop,78688.0,YATRA,2.0,111.0,6659.8
+246,177,Gurgaon,India,Lisbon,Portugal,2021-07-24 18:33:59+00:00,IOS,84777.6,GOIBIBO,2.0,2.0,7767.7
+176,297,Gurgaon,India,Barelā,India,2021-12-16 21:22:43+00:00,IOS,11001.6,GOIBIBO,2.0,11.0,666.7
+286,306,Mumbai,India,Gurgaon,India,2021-01-29 20:15:25+00:00,Desktop,4386.67,MMT,1.0,12.0,1125.5
+200,113,Delhi,India,Varanasi,India,2020-11-08 20:58:25+00:00,Desktop,2837.6,YATRA,1.0,9.0,682.4
+76,65,New Delhi,India,Milan,Italy,2018-09-21 16:29:59+00:00,Tablet,21549.6,YATRA,1.0,29.0,6321.1
+83,228,Rāja Sānsi,India,Gurgaon,India,2022-02-14 16:28:39+00:00,IOS,5455.2,GOIBIBO,1.0,8.0,414.6
+225,15,Gurgaon,India,Dorāha,India,2020-01-06 21:13:22+00:00,IOS,1588.0,GOIBIBO,1.0,3.0,277.7
+113,127,Gurgaon,India,Chandigarh,India,2021-03-30 17:44:53+00:00,Desktop,3160.0,GOIBIBO,1.0,25.0,254.1
+135,13,Madhyamgram,India,Aizawl,India,2021-12-09 20:25:14+00:00,Desktop,4627.2,GOIBIBO,1.0,7.0,460.4
+85,102,Gurgaon,India,Doiwāla,India,2021-10-28 11:55:27+00:00,IOS,3936.0,GOIBIBO,1.0,5.0,206.8
+199,44,Gurgaon,India,Malé,Maldives,2020-11-03 11:40:07+00:00,Desktop,9891.67,MMT,1.0,1.0,2725.9
+50,28,Ahmedabad,India,Gurgaon,India,2020-02-05 16:08:14+00:00,Desktop,2980.21,MMT,1.0,8.0,747.8
+223,270,Delhi,India,Brussels,Belgium,2020-03-16 08:28:29+00:00,MobileWeb,30883.72,GOIBIBO,1.0,1.0,6701.5
+220,178,Delhi,India,Lucknow,India,2020-10-02 10:30:58+00:00,IOS,6702.4,YATRA,2.0,3.0,415.7
+63,1,Mumbai,India,Frankfurt am Main,Germany,2019-09-05 09:08:02+00:00,Android,42958.4,GOIBIBO,1.0,1.0,6815.2
+36,52,Rāja Sānsi,India,Fiumicino,Italy,2018-11-09 12:05:58+00:00,Desktop,74047.2,YATRA,3.0,9.0,5686.1
+57,84,Gurgaon,India,Fiumicino,Italy,2018-10-09 20:39:45+00:00,Desktop,22256.2,YATRA,1.0,3.0,6076.8
+162,279,Gurgaon,India,Frankfurt am Main,Germany,2019-09-01 21:20:47+00:00,Desktop,127120.0,GOIBIBO,2.0,68.0,6355.5
+120,151,Delhi,India,Jammu,India,2020-02-03 13:56:36+00:00,Desktop,4604.8,MMT,1.0,1.0,506.9
+120,299,Jammu,India,Dubai,United Arab Emirates,2020-02-13 18:16:04+00:00,Desktop,16753.73,YATRA,1.0,5.0,2076.5
+213,0,Delhi,India,Madhyamgram,India,2021-12-09 19:47:40+00:00,Desktop,8565.6,GOIBIBO,1.0,5.0,1306.4
+218,203,Gurgaon,India,Roissy-en-France,France,2022-03-15 19:58:39+00:00,IOS,127612.8,GOIBIBO,2.0,19.0,6564.2
+266,211,Gurgaon,India,Rāja Sānsi,India,2019-12-07 15:53:51+00:00,Android,4112.77,GOIBIBO,1.0,3.0,421.0
+1,115,Gurgaon,India,Guwahati,India,2020-03-02 11:50:51+00:00,IOS,7233.6,YATRA,1.0,11.0,1476.4
+289,75,Rāja Sānsi,India,Fiumicino,Italy,2018-09-25 16:19:23+00:00,Desktop,51982.4,YATRA,2.0,3.0,5686.1
+12,334,Surat,India,Frankfurt am Main,Germany,2021-09-12 17:03:25+00:00,IOS,34224.0,GOIBIBO,1.0,33.0,6394.6
+84,22,Gurgaon,India,Berlin,Germany,2020-03-08 12:22:28+00:00,Desktop,21738.4,YATRA,1.0,29.0,6008.3
+198,53,Gurgaon,India,Mohali,India,2020-12-03 10:26:01+00:00,Android,8092.0,MMT,2.0,0.0,248.6
+160,122,Patna,India,Gurgaon,India,2020-01-28 18:27:20+00:00,Desktop,6440.11,MMT,1.0,1.0,862.3
+276,234,Gurgaon,India,Berlin,Germany,2019-11-30 11:13:57+00:00,Desktop,34270.4,YATRA,1.0,55.0,6008.3
+277,45,Gurgaon,India,Barcelona,Spain,2020-02-07 17:48:16+00:00,MobileWeb,29000.8,YATRA,1.0,6.0,6975.4
+8,269,Gurgaon,India,Chennai,India,2020-01-31 06:33:08+00:00,IOS,8084.8,GOIBIBO,1.0,4.0,1742.4
+13,89,Surat,India,Devanhalli,India,2020-02-09 16:55:36+00:00,Desktop,8208.8,YATRA,1.0,1.0,1022.5
+231,202,Surat,India,Devanhalli,India,2020-02-09 16:52:56+00:00,Desktop,8208.8,YATRA,1.0,1.0,1022.5
+301,19,Devanhalli,India,Frankfurt am Main,Germany,2018-11-23 19:18:51+00:00,Desktop,29297.6,YATRA,1.0,101.0,7712.0
+305,324,Gurgaon,India,Paris,France,2020-01-18 05:57:50+00:00,IOS,22848.0,GOIBIBO,1.0,0.0,6869.5
+64,302,Bālāpur,India,Milan,Italy,2022-02-28 06:49:52+00:00,Desktop,36363.2,GOIBIBO,1.0,6.0,7043.5
+156,11,Ahmedabad,India,London,United Kingdom,2021-10-08 11:47:21+00:00,IOS,29635.38,GOIBIBO,1.0,4.0,6866.2
+123,73,Mumbai,India,Milan,Italy,2018-11-16 18:54:53+00:00,Android,23200.0,YATRA,1.0,1.0,6668.9
+217,194,Durlaga,India,Bhubaneswar,India,2021-09-10 19:12:36+00:00,Desktop,2176.0,GOIBIBO,1.0,56.0,260.5
+103,209,Mumbai,India,Ahmedabad,India,2020-02-03 12:54:03+00:00,Android,9560.8,MMT,4.0,218.0,441.3
+98,79,Gurgaon,India,Munich,Germany,2020-02-06 16:41:25+00:00,Desktop,31651.2,YATRA,1.0,2.0,6116.3
+71,150,Devanhalli,India,Frankfurt am Main,Germany,2019-10-17 14:23:52+00:00,Desktop,28219.2,GOIBIBO,1.0,51.0,7712.0
+166,182,Devanhalli,India,Frankfurt am Main,Germany,2021-06-26 08:58:06+00:00,Desktop,25555.2,GOIBIBO,1.0,1.0,7394.2
+3,80,Devanhalli,India,Roissy-en-France,France,2021-10-24 15:03:50+00:00,Android,29655.33,GOIBIBO,1.0,36.0,7822.2
+44,130,Gurgaon,India,Rāja Sānsi,India,2021-09-20 19:18:18+00:00,Android,2353.6,GOIBIBO,1.0,30.0,414.6
+212,193,Ranchi,India,Mumbai,India,2021-01-04 15:39:40+00:00,Desktop,16869.68,MMT,2.0,1.0,1374.8
+125,30,Gurgaon,India,Ranchi,India,2020-02-03 14:38:24+00:00,MobileWeb,3327.2,MMT,1.0,14.0,1006.6
+167,307,Gurgaon,India,Rome,Italy,2018-12-25 13:41:56+00:00,Desktop,66928.0,YATRA,4.0,3.0,6053.3
+110,232,Devanhalli,India,Dubai,United Arab Emirates,2020-11-03 16:08:42+00:00,Desktop,19604.92,YATRA,1.0,2.0,2698.1
+24,144,Madhyamgram,India,Rozenburg,Netherlands,2019-12-23 15:30:30+00:00,Desktop,57172.0,GOIBIBO,1.0,15.0,8086.1
+205,321,Hyderabad,India,Frankfurt am Main,Germany,2020-02-11 11:35:09+00:00,Desktop,59008.0,GOIBIBO,2.0,56.0,7408.9
+216,128,Kochi,India,Hamburg,Germany,2020-02-19 22:18:08+00:00,MobileWeb,72363.2,YATRA,2.0,55.0,7922.8
+240,311,Gurgaon,India,Frankfurt am Main,Germany,2020-02-29 08:36:47+00:00,IOS,29610.4,GOIBIBO,1.0,1.0,6355.5
+270,166,Varanasi,India,Pune,India,2021-06-27 18:04:19+00:00,Desktop,11727.73,GOIBIBO,1.0,7.0,1208.9
+144,173,Ahmedabad,India,Gwalior,India,2020-02-07 17:54:36+00:00,Desktop,16905.46,GOIBIBO,1.0,2.0,664.7
+253,170,Madhyamgram,India,Frankfurt am Main,Germany,2021-11-18 13:39:37+00:00,Desktop,38342.4,GOIBIBO,1.0,30.0,7389.7
+2,298,Kochi,India,Frankfurt am Main,Germany,2019-10-03 09:11:14+00:00,Desktop,24292.0,GOIBIBO,1.0,4.0,7891.8
+139,148,Devanhalli,India,Frankfurt am Main,Germany,2022-04-05 09:51:52+00:00,Desktop,75257.6,MMT,2.0,226.0,7394.2
+97,68,Gurgaon,India,Paris,France,2022-06-29 09:15:16+00:00,IOS,33274.4,MMT,1.0,88.0,6583.3
+105,231,Angamāli,India,Frankfurt am Main,Germany,2021-12-11 18:40:09+00:00,IOS,216646.4,GOIBIBO,2.0,13.0,7561.5
+149,126,Devanhalli,India,Oberding,Germany,2020-01-04 03:22:16+00:00,IOS,41512.0,YATRA,1.0,6.0,7402.5
+127,282,Chennai,India,London,United Kingdom,2020-01-20 17:19:18+00:00,Desktop,108567.31,YATRA,2.0,107.0,8681.2
+170,273,Mumbai,India,Gurgaon,India,2020-02-22 16:49:11+00:00,Desktop,2084.8,MMT,1.0,9.0,1125.8
+180,70,Rāja Sānsi,India,Fiumicino,Italy,2018-10-13 11:18:13+00:00,Desktop,25136.0,YATRA,1.0,1.0,5686.1
+242,265,Mumbai,India,Roissy-en-France,France,2018-09-21 16:47:29+00:00,MobileWeb,16419.2,YATRA,1.0,6.0,7288.0
+51,213,Gurgaon,India,Berlin,Germany,2019-12-29 12:54:25+00:00,Desktop,24458.4,GOIBIBO,1.0,44.0,6008.3
+157,51,Gurgaon,India,Frankfurt am Main,Germany,2019-12-16 16:58:53+00:00,Android,41137.6,GOIBIBO,1.0,52.0,6355.5
+145,98,Gurgaon,India,Bangalore,India,2020-03-05 03:24:13+00:00,IOS,8519.85,YATRA,1.0,0.0,1723.2
+70,274,Devanhalli,India,Madhyamgram,India,2020-09-03 13:42:50+00:00,Android,1402.4,GOIBIBO,1.0,3.0,1547.2
+80,315,New Delhi,India,Rāja Sānsi,India,2018-10-09 18:00:36+00:00,Desktop,5440.0,YATRA,2.0,18.0,414.6
+256,16,Gurgaon,India,Madrid,Spain,2019-10-06 09:57:55+00:00,IOS,22459.2,YATRA,1.0,9.0,7521.8
+35,40,Delhi,India,Varanasi,India,2020-11-08 01:16:17+00:00,Desktop,3157.6,YATRA,1.0,8.0,682.4
+273,260,Devanhalli,India,Frankfurt am Main,Germany,2022-07-01 08:28:24+00:00,IOS,36151.2,GOIBIBO,1.0,16.0,7394.2
+172,7,Gurgaon,India,Frankfurt am Main,Germany,2021-08-10 11:28:29+00:00,Desktop,117836.8,GOIBIBO,2.0,22.0,6112.5
+102,333,Rāja Sānsi,India,Frankfurt am Main,Germany,2021-04-15 12:22:18+00:00,Android,39508.8,GOIBIBO,1.0,3.0,5712.1
+257,83,Gurgaon,India,Roissy-en-France,France,2021-10-26 15:30:09+00:00,MobileWeb,22237.6,GOIBIBO,1.0,7.0,6564.2
+168,320,Chennai,India,Rozenburg,Netherlands,2021-12-03 07:04:34+00:00,Android,70506.4,GOIBIBO,1.0,7.0,7877.5
+27,47,Gurgaon,India,Frankfurt am Main,Germany,2020-11-16 16:16:55+00:00,Android,24518.4,YATRA,1.0,7.0,6114.5
+29,14,Bangalore,India,Munich,Germany,2020-02-27 07:33:56+00:00,MobileWeb,55371.2,YATRA,1.0,40.0,7433.2
+10,191,Delhi,India,Vizzola Ticino,Italy,2018-09-23 08:01:12+00:00,MobileWeb,19790.4,YATRA,1.0,8.0,6362.0
+33,198,Bikaner,India,Gurgaon,India,2021-03-14 05:54:13+00:00,IOS,9924.0,GOIBIBO,2.0,0.0,367.5
+230,3,Rāja Sānsi,India,Paris,France,2021-04-28 06:28:54+00:00,IOS,24619.2,GOIBIBO,1.0,11.0,6184.7
+244,221,Gurgaon,India,London,United Kingdom,2021-12-30 09:36:14+00:00,MobileWeb,88396.8,GOIBIBO,2.0,33.0,6708.3
+67,286,Devanhalli,India,Gurgaon,India,2020-10-15 14:51:12+00:00,Desktop,5971.63,YATRA,1.0,2.0,1694.7
+86,142,Rāja Sānsi,India,Fiumicino,Italy,2018-12-01 20:01:36+00:00,Desktop,50968.8,YATRA,2.0,1.0,5686.1
+17,24,Mumbai,India,Berlin,Germany,2018-11-23 18:28:48+00:00,MobileWeb,84799.69,YATRA,2.0,1.0,6527.2
+49,34,Gurgaon,India,Roissy-en-France,France,2019-09-03 17:32:57+00:00,IOS,66720.0,YATRA,1.0,3.0,6854.8
+53,155,Chennai,India,Paris,France,2021-12-23 17:36:19+00:00,Desktop,56648.0,GOIBIBO,1.0,17.0,8036.0
+255,145,Gurgaon,India,Bagdogra,India,2020-10-08 16:09:48+00:00,Android,7663.2,MMT,2.0,4.0,1128.9
+302,251,Madhyamgram,India,Kloten,Switzerland,2019-12-12 18:50:28+00:00,IOS,60580.16,YATRA,1.0,3.0,7772.0
+45,337,Devanhalli,India,Frankfurt am Main,Germany,2020-02-26 15:51:08+00:00,Android,35420.0,YATRA,1.0,18.0,7712.0
+206,254,Delhi,India,Paris,France,2018-11-12 14:04:00+00:00,Desktop,20372.92,YATRA,1.0,15.0,6870.7
+134,160,Ferokh,India,Dubai,United Arab Emirates,2018-10-17 18:45:04+00:00,Desktop,12078.51,YATRA,1.0,1.0,2675.5
+19,135,Gurgaon,India,Rāja Sānsi,India,2021-09-09 18:28:05+00:00,Desktop,4696.0,GOIBIBO,1.0,2.0,414.6
+291,332,Gurgaon,India,Rāja Sānsi,India,2021-11-11 20:39:48+00:00,Android,6376.8,GOIBIBO,1.0,2.0,414.6
+88,171,Bhubaneswar,India,Devanhalli,India,2019-11-29 07:57:13+00:00,IOS,6791.2,GOIBIBO,1.0,2.0,1167.5
+250,247,Gurgaon,India,Hamburg,Germany,2020-07-21 16:34:39+00:00,IOS,34355.2,MMT,1.0,30.0,6008.2
+151,308,Gurgaon,India,Valencia,Spain,2021-03-05 03:50:13+00:00,IOS,140726.4,GOIBIBO,3.0,11.0,7027.2
+97,90,Gurgaon,India,Dharamsala,India,2022-02-25 09:09:13+00:00,IOS,5126.4,GOIBIBO,1.0,14.0,416.6
+290,208,Gurgaon,India,Berlin,Germany,2019-08-03 17:45:40+00:00,Desktop,26080.0,GOIBIBO,1.0,163.0,6008.3
+288,248,Gurgaon,India,Rome,Italy,2019-10-22 22:35:59+00:00,Android,45982.4,YATRA,2.0,2.0,6053.3
+155,54,Gurgaon,India,Varanasi,India,2020-01-21 21:13:42+00:00,IOS,4555.2,YATRA,1.0,6.0,688.7
+182,210,Devanhalli,India,Chennai,India,2021-06-14 18:29:06+00:00,Desktop,9936.8,GOIBIBO,1.0,16.0,279.7
+230,61,Gurgaon,India,Paris,France,2022-05-22 09:22:02+00:00,IOS,57776.8,GOIBIBO,3.0,18.0,6583.3
+191,112,Mumbai,India,Frankfurt am Main,Germany,2020-02-14 17:14:51+00:00,Desktop,27831.2,GOIBIBO,1.0,68.0,6815.2
+158,93,Gurgaon,India,Frankfurt am Main,Germany,2019-07-25 19:50:05+00:00,Desktop,105120.0,GOIBIBO,2.0,29.0,6355.5
+87,103,Agartala,India,Gurgaon,India,2022-01-17 19:13:01+00:00,IOS,8001.51,GOIBIBO,1.0,1.0,1501.4
+196,138,Lucknow,India,Frankfurt am Main,Germany,2020-11-13 18:41:19+00:00,Desktop,28178.4,YATRA,1.0,9.0,6516.2
+238,180,Gurgaon,India,Frankfurt am Main,Germany,2022-02-22 08:56:26+00:00,IOS,35132.0,GOIBIBO,2.0,23.0,6121.0
+194,57,Devanhalli,India,Frankfurt am Main,Germany,2022-04-18 18:08:57+00:00,IOS,99294.4,MMT,2.0,81.0,7394.2
+31,77,Rāja Sānsi,India,Roissy-en-France,France,2020-12-14 06:28:29+00:00,IOS,50198.4,GOIBIBO,1.0,20.0,6169.6
+275,252,Gurgaon,India,Schönefeld,Germany,2022-06-29 10:51:14+00:00,Android,33786.4,GOIBIBO,1.0,4.0,5771.1
+47,264,Delhi,India,Naples,Italy,2018-10-18 16:09:48+00:00,Desktop,22732.8,YATRA,1.0,9.0,5911.6
+90,118,Gurgaon,India,Warsaw,Poland,2019-12-10 20:26:45+00:00,Android,33235.12,YATRA,1.0,40.0,5433.3
+300,243,Gurgaon,India,Ban Khlong Bang Sao Thong,Thailand,2020-01-27 10:34:07+00:00,IOS,7565.62,MMT,1.0,10.0,2969.6
+181,158,Ahmedabad,India,Gurgaon,India,2020-05-20 14:34:04+00:00,Android,2309.6,MMT,1.0,15.0,747.6
+52,242,Mumbai,India,Gurgaon,India,2021-01-28 20:24:52+00:00,Desktop,5958.56,MMT,1.0,7.0,1125.5
+69,235,Gurgaon,India,Ranchi,India,2020-02-15 07:25:11+00:00,Desktop,6330.81,MMT,1.0,3.0,1006.6
+21,17,Gurgaon,India,El Prat de Llobregat,Spain,2020-06-08 19:00:01+00:00,Android,31466.4,GOIBIBO,1.0,27.0,6771.8
+152,123,Gurgaon,India,Paris,France,2021-02-25 05:48:53+00:00,IOS,23209.6,GOIBIBO,1.0,17.0,6585.2
+237,172,Thiruvananthapuram,India,London,United Kingdom,2021-10-21 05:47:35+00:00,IOS,81499.86,GOIBIBO,1.0,79.0,8375.4
+28,314,Madhyamgram,India,Frankfurt am Main,Germany,2022-06-01 16:12:55+00:00,Desktop,56064.8,GOIBIBO,1.0,19.0,7380.7
+265,281,Gurgaon,India,Roissy-en-France,France,2019-12-21 15:15:03+00:00,Android,24072.0,GOIBIBO,1.0,9.0,6854.8
+239,262,Gurgaon,India,Kolkata,India,2020-09-10 07:01:34+00:00,IOS,5291.52,YATRA,1.0,3.0,1312.1
+236,60,Devanhalli,India,Frankfurt am Main,Germany,2019-09-23 10:34:00+00:00,Desktop,55176.0,GOIBIBO,1.0,1.0,7712.0
+252,199,Mumbai,India,Berlin,Germany,2020-11-18 12:28:13+00:00,Desktop,59976.0,GOIBIBO,2.0,102.0,6286.5
+214,207,Gurgaon,India,Berlin,Germany,2020-08-18 19:17:17+00:00,Android,27901.6,GOIBIBO,1.0,17.0,5780.3
+200,292,Varanasi,India,Delhi,India,2020-11-08 20:39:54+00:00,Desktop,2800.8,MMT,1.0,9.0,682.4
+189,161,Mumbai,India,Gurgaon,India,2021-04-17 17:01:43+00:00,Desktop,4930.88,MMT,1.0,11.0,1125.5
+107,276,Devanhalli,India,Kolkata,India,2021-02-02 18:42:26+00:00,Desktop,11035.08,MMT,2.0,1.0,1531.5
+245,27,Gurgaon,India,Mumbai,India,2020-01-28 14:16:19+00:00,Android,6947.26,MMT,1.0,1.0,1125.8
+169,267,Chennai,India,Madurai,India,2022-03-28 07:59:09+00:00,IOS,6752.0,GOIBIBO,1.0,14.0,422.5
+176,174,Gurgaon,India,Frankfurt am Main,Germany,2021-11-02 14:54:40+00:00,Desktop,66385.6,GOIBIBO,1.0,75.0,6112.5
+153,175,Gurgaon,India,Agartala,India,2022-04-18 15:42:14+00:00,Android,11988.83,GOIBIBO,1.0,3.0,1501.4
+91,266,Chennai,India,Roissy-en-France,France,2020-02-17 11:05:49+00:00,Android,43364.8,GOIBIBO,2.0,77.0,8416.0
+163,179,Rāja Sānsi,India,Gurgaon,India,2019-12-20 02:45:01+00:00,Android,7080.32,GOIBIBO,2.0,24.0,421.0
+281,326,Chennai,India,Frankfurt am Main,Germany,2022-01-22 02:31:28+00:00,Desktop,54024.8,GOIBIBO,1.0,4.0,7586.2
+54,49,Chennai,India,Roissy-en-France,France,2021-10-14 09:28:31+00:00,IOS,50838.4,GOIBIBO,1.0,14.0,8019.5
+126,120,New Delhi,India,Manchester,United Kingdom,2018-12-18 23:02:22+00:00,IOS,18981.19,YATRA,1.0,42.0,7212.6
+4,309,Delhi,India,Brussels,Belgium,2018-11-21 13:57:09+00:00,IOS,37457.6,YATRA,2.0,9.0,6701.5
+217,162,Durlaga,India,Bhubaneswar,India,2021-09-10 21:30:45+00:00,Desktop,2176.0,GOIBIBO,1.0,61.0,260.5
+192,253,Mohali,India,Mumbai,India,2020-02-10 05:54:25+00:00,Android,20895.4,MMT,3.0,10.0,1347.5
+136,330,Gurgaon,India,Rome,Italy,2019-10-08 08:40:23+00:00,IOS,24304.8,YATRA,1.0,2.0,6053.3
+93,223,Bālāpur,India,Düsseldorf,Germany,2019-12-08 11:33:11+00:00,IOS,41835.2,YATRA,1.0,127.0,7591.8
+295,304,Mumbai,India,Frankfurt am Main,Germany,2022-07-06 16:15:47+00:00,Desktop,83867.2,GOIBIBO,2.0,46.0,6561.8
+190,9,Angamāli,India,Newcastle upon Tyne,United Kingdom,2019-12-08 18:26:00+00:00,IOS,95426.07,GOIBIBO,3.0,46.0,8843.6
+209,92,Gurgaon,India,Paris,France,2021-04-09 12:37:45+00:00,Desktop,21871.2,GOIBIBO,1.0,43.0,6585.2
+226,87,Bālāpur,India,Frankfurt am Main,Germany,2021-04-15 05:48:25+00:00,IOS,58964.0,GOIBIBO,1.0,2.0,7106.7
+297,258,Gurgaon,India,Tiruchi,India,2020-03-16 23:54:50+00:00,Android,10568.8,GOIBIBO,1.0,1.0,1970.8
+173,205,Gurgaon,India,London,United Kingdom,2020-02-15 15:44:37+00:00,IOS,27881.6,GOIBIBO,1.0,13.0,7055.3
+160,278,Gurgaon,India,Patna,India,2020-01-28 16:35:05+00:00,Desktop,5232.6,MMT,1.0,2.0,862.3
+108,195,Gurgaon,India,Faro,Portugal,2019-12-14 15:12:14+00:00,IOS,61050.4,GOIBIBO,2.0,8.0,8003.0
+79,41,Gurgaon,India,Roissy-en-France,France,2022-03-11 20:43:32+00:00,IOS,25857.6,GOIBIBO,1.0,18.0,6564.2
+247,48,Rāja Sānsi,India,Gurgaon,India,2021-11-09 04:04:49+00:00,Android,5707.2,GOIBIBO,1.0,23.0,414.6
+106,116,Chennai,India,Coimbatore,India,2022-01-21 15:17:42+00:00,Desktop,3816.8,GOIBIBO,1.0,6.0,429.4
+299,6,Mumbai,India,Luqa,Malta,2019-11-16 19:05:48+00:00,IOS,29965.6,GOIBIBO,1.0,5.0,6056.1
+33,187,Gurgaon,India,Berlin,Germany,2019-11-07 14:50:11+00:00,IOS,20759.2,GOIBIBO,1.0,2.0,6008.3
+14,216,Gurgaon,India,Düsseldorf,Germany,2019-07-29 20:33:06+00:00,Desktop,47520.0,YATRA,2.0,139.0,6510.0
+304,237,Pune,India,Varanasi,India,2020-12-22 18:30:43+00:00,MobileWeb,12201.53,MMT,2.0,3.0,1208.9
+32,96,Nagpur,India,Ahmedabad,India,2021-01-03 15:43:58+00:00,Desktop,3965.39,MMT,1.0,1.0,700.0
+67,328,Devanhalli,India,Gurgaon,India,2020-10-15 14:43:32+00:00,Desktop,5635.73,MMT,1.0,2.0,1694.7
+133,238,Gurgaon,India,Rāja Sānsi,India,2020-02-14 14:20:20+00:00,IOS,2721.6,YATRA,1.0,26.0,421.0
+235,37,Gurgaon,India,Bhubaneswar,India,2020-03-21 06:40:56+00:00,Android,6552.0,GOIBIBO,1.0,0.0,1274.7
+62,239,Gurgaon,India,Birmingham,United Kingdom,2020-01-31 20:35:35+00:00,Desktop,126502.46,GOIBIBO,2.0,109.0,7190.9
+5,131,Mumbai,India,Kloten,Switzerland,2018-10-11 14:31:28+00:00,Desktop,55152.8,YATRA,2.0,22.0,6760.0
+241,336,Gurgaon,India,Amsterdam,Netherlands,2022-07-11 18:46:59+00:00,Desktop,41117.6,GOIBIBO,1.0,20.0,6354.9
